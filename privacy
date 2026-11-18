@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy – slipclipsgg</title>
+<style>
+  body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; line-height: 1.6; color: #1d1d1f; background: #fff; }
+  h1 { font-size: 1.8rem; } h2 { font-size: 1.15rem; margin-top: 1.8em; }
+  .muted { color: #666; font-size: .9rem; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p class="muted">App: slipclipsgg (GTA Clipper) · Last updated: November 17, 2026</p>
+
+<p>slipclipsgg is a personal desktop application. Its owner uses it to edit short gameplay clips and publish them to the owner's own TikTok, Instagram and YouTube accounts. This policy explains what data the app handles and how.</p>
+
+<h2>Data the app accesses</h2>
+<ul>
+  <li><strong>Account information</strong> returned by each platform when an account is connected: display name, username, profile picture and account ID.</li>
+  <li><strong>Access tokens</strong> issued by each platform through its official login (OAuth), so the app can publish on the connected account.</li>
+  <li><strong>Videos and captions</strong> created by the owner in the app, which are uploaded only to the account the owner selects.</li>
+</ul>
+
+<h2>How the data is stored</h2>
+<p>All account information and tokens are stored only on the owner's own computer, encrypted with the operating system's credential protection (Windows DPAPI). The app does not run a server that receives this data.</p>
+
+<h2>Sharing</h2>
+<p>The app does not sell, rent or share any user data with third parties. Videos and captions are sent only to the platform where the owner chooses to publish them, through that platform's official API.</p>
+
+<h2>Retention and deletion</h2>
+<p>Data is kept until the account is removed from the app. Removing an account in the app deletes its stored tokens and information immediately. Access can also be revoked at any time from each platform's settings (for TikTok: Settings and privacy → Security → Apps and services permissions).</p>
+
+<h2>Children</h2>
+<p>The app is not directed to children under 13 and does not knowingly collect their data.</p>
+
+<h2>Contact</h2>
+<p>Questions about this policy: <a href="mailto:CONTACT_EMAIL">CONTACT_EMAIL</a></p>
+
+<p class="muted"><a href="terms.html">Terms of Service</a></p>
+</body>
+</html>
