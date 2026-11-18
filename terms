@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Terms of Service – slipclipsgg</title>
+<style>
+  body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; line-height: 1.6; color: #1d1d1f; background: #fff; }
+  h1 { font-size: 1.8rem; } h2 { font-size: 1.15rem; margin-top: 1.8em; }
+  .muted { color: #666; font-size: .9rem; }
+</style>
+</head>
+<body>
+<h1>Terms of Service</h1>
+<p class="muted">App: slipclipsgg (GTA Clipper) · Last updated: November 17, 2026</p>
+
+<h2>1. What the app does</h2>
+<p>slipclipsgg is a desktop application for editing short gameplay clips and publishing them to TikTok, Instagram and YouTube accounts that the user owns and connects through each platform's official login.</p>
+
+<h2>2. Use of the app</h2>
+<p>By using the app you agree to:</p>
+<ul>
+  <li>Connect only accounts you own or are authorized to manage.</li>
+  <li>Publish only content you have the right to share, and give credit to the original creators when required.</li>
+  <li>Follow the terms and community guidelines of each platform you publish to, including the TikTok Terms of Service and Community Guidelines.</li>
+</ul>
+
+<h2>3. Third-party platforms</h2>
+<p>Publishing is done through the official APIs of TikTok, Instagram (Meta) and YouTube (Google). Those services are governed by their own terms and privacy policies. The app is not affiliated with or endorsed by any of them.</p>
+
+<h2>4. Your content</h2>
+<p>You keep all rights to the content you publish. The app does not claim ownership of your videos or captions.</p>
+
+<h2>5. No warranty</h2>
+<p>The app is provided "as is", without warranties of any kind. Its owner is not liable for lost content, failed uploads or actions taken by third-party platforms on your accounts.</p>
+
+<h2>6. Changes</h2>
+<p>These terms may be updated. The date above shows the latest version.</p>
+
+<h2>7. Contact</h2>
+<p><a href="mailto:CONTACT_EMAIL">CONTACT_EMAIL</a></p>
+
+<p class="muted"><a href="privacy.html">Privacy Policy</a></p>
+</body>
+</html>
